@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\ParImpar\obj\Debug\netcoreapp2.2\ParImpar.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\ParImpar\obj\Debug\netcoreapp2.2\ParImpar.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\ParImpar\obj\Debug\netcoreapp2.2\ParImpar.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\ParImpar\obj\Debug\netcoreapp2.2\ParImpar.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\ParImpar\bin\Debug\netcoreapp2.2\ParImpar.deps.json
+C:\Users\fic\Desktop\Csharp\ParImpar\bin\Debug\netcoreapp2.2\ParImpar.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\ParImpar\bin\Debug\netcoreapp2.2\ParImpar.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\ParImpar\bin\Debug\netcoreapp2.2\ParImpar.dll
+C:\Users\fic\Desktop\Csharp\ParImpar\bin\Debug\netcoreapp2.2\ParImpar.pdb
+C:\Users\fic\Desktop\Csharp\ParImpar\obj\Debug\netcoreapp2.2\ParImpar.dll
+C:\Users\fic\Desktop\Csharp\ParImpar\obj\Debug\netcoreapp2.2\ParImpar.pdb

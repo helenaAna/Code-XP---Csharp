@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\CalculoDoisNumeros\obj\Debug\netcoreapp2.2\CalculoDoisNumeros.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\CalculoDoisNumeros\obj\Debug\netcoreapp2.2\CalculoDoisNumeros.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\CalculoDoisNumeros\obj\Debug\netcoreapp2.2\CalculoDoisNumeros.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\CalculoDoisNumeros\obj\Debug\netcoreapp2.2\CalculoDoisNumeros.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\CalculoDoisNumeros\bin\Debug\netcoreapp2.2\CalculoDoisNumeros.deps.json
+C:\Users\fic\Desktop\Csharp\CalculoDoisNumeros\bin\Debug\netcoreapp2.2\CalculoDoisNumeros.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\CalculoDoisNumeros\bin\Debug\netcoreapp2.2\CalculoDoisNumeros.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\CalculoDoisNumeros\bin\Debug\netcoreapp2.2\CalculoDoisNumeros.dll
+C:\Users\fic\Desktop\Csharp\CalculoDoisNumeros\bin\Debug\netcoreapp2.2\CalculoDoisNumeros.pdb
+C:\Users\fic\Desktop\Csharp\CalculoDoisNumeros\obj\Debug\netcoreapp2.2\CalculoDoisNumeros.dll
+C:\Users\fic\Desktop\Csharp\CalculoDoisNumeros\obj\Debug\netcoreapp2.2\CalculoDoisNumeros.pdb

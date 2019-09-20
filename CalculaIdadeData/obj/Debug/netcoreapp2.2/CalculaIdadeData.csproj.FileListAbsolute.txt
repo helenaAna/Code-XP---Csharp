@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\CalculaIdadeData\obj\Debug\netcoreapp2.2\CalculaIdadeData.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\CalculaIdadeData\obj\Debug\netcoreapp2.2\CalculaIdadeData.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\CalculaIdadeData\obj\Debug\netcoreapp2.2\CalculaIdadeData.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\CalculaIdadeData\obj\Debug\netcoreapp2.2\CalculaIdadeData.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\CalculaIdadeData\bin\Debug\netcoreapp2.2\CalculaIdadeData.deps.json
+C:\Users\fic\Desktop\Csharp\CalculaIdadeData\bin\Debug\netcoreapp2.2\CalculaIdadeData.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\CalculaIdadeData\bin\Debug\netcoreapp2.2\CalculaIdadeData.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\CalculaIdadeData\bin\Debug\netcoreapp2.2\CalculaIdadeData.dll
+C:\Users\fic\Desktop\Csharp\CalculaIdadeData\bin\Debug\netcoreapp2.2\CalculaIdadeData.pdb
+C:\Users\fic\Desktop\Csharp\CalculaIdadeData\obj\Debug\netcoreapp2.2\CalculaIdadeData.dll
+C:\Users\fic\Desktop\Csharp\CalculaIdadeData\obj\Debug\netcoreapp2.2\CalculaIdadeData.pdb

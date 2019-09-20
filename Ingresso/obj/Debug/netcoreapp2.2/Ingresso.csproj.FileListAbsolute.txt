@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Ingresso\bin\Debug\netcoreapp2.2\Ingresso.deps.json
+C:\Users\fic\Desktop\Csharp\Ingresso\bin\Debug\netcoreapp2.2\Ingresso.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Ingresso\bin\Debug\netcoreapp2.2\Ingresso.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Ingresso\bin\Debug\netcoreapp2.2\Ingresso.dll
+C:\Users\fic\Desktop\Csharp\Ingresso\bin\Debug\netcoreapp2.2\Ingresso.pdb
+C:\Users\fic\Desktop\Csharp\Ingresso\obj\Debug\netcoreapp2.2\Ingresso.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Ingresso\obj\Debug\netcoreapp2.2\Ingresso.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Ingresso\obj\Debug\netcoreapp2.2\Ingresso.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Ingresso\obj\Debug\netcoreapp2.2\Ingresso.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Ingresso\obj\Debug\netcoreapp2.2\Ingresso.dll
+C:\Users\fic\Desktop\Csharp\Ingresso\obj\Debug\netcoreapp2.2\Ingresso.pdb

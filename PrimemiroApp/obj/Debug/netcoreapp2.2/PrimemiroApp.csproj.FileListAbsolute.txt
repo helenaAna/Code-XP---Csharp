@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\PrimemiroApp\bin\Debug\netcoreapp2.2\PrimemiroApp.deps.json
+C:\Users\fic\Desktop\Csharp\PrimemiroApp\bin\Debug\netcoreapp2.2\PrimemiroApp.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\PrimemiroApp\bin\Debug\netcoreapp2.2\PrimemiroApp.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\PrimemiroApp\bin\Debug\netcoreapp2.2\PrimemiroApp.dll
+C:\Users\fic\Desktop\Csharp\PrimemiroApp\bin\Debug\netcoreapp2.2\PrimemiroApp.pdb
+C:\Users\fic\Desktop\Csharp\PrimemiroApp\obj\Debug\netcoreapp2.2\PrimemiroApp.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\PrimemiroApp\obj\Debug\netcoreapp2.2\PrimemiroApp.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\PrimemiroApp\obj\Debug\netcoreapp2.2\PrimemiroApp.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\PrimemiroApp\obj\Debug\netcoreapp2.2\PrimemiroApp.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\PrimemiroApp\obj\Debug\netcoreapp2.2\PrimemiroApp.dll
+C:\Users\fic\Desktop\Csharp\PrimemiroApp\obj\Debug\netcoreapp2.2\PrimemiroApp.pdb

@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Triplo\bin\Debug\netcoreapp2.2\Triplo.deps.json
+C:\Users\fic\Desktop\Csharp\Triplo\bin\Debug\netcoreapp2.2\Triplo.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Triplo\bin\Debug\netcoreapp2.2\Triplo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Triplo\bin\Debug\netcoreapp2.2\Triplo.dll
+C:\Users\fic\Desktop\Csharp\Triplo\bin\Debug\netcoreapp2.2\Triplo.pdb
+C:\Users\fic\Desktop\Csharp\Triplo\obj\Debug\netcoreapp2.2\Triplo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Triplo\obj\Debug\netcoreapp2.2\Triplo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Triplo\obj\Debug\netcoreapp2.2\Triplo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Triplo\obj\Debug\netcoreapp2.2\Triplo.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Triplo\obj\Debug\netcoreapp2.2\Triplo.dll
+C:\Users\fic\Desktop\Csharp\Triplo\obj\Debug\netcoreapp2.2\Triplo.pdb

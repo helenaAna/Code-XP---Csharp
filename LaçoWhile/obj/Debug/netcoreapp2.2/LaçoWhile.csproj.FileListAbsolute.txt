@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\LaçoWhile\bin\Debug\netcoreapp2.2\LaçoWhile.deps.json
+C:\Users\fic\Desktop\Csharp\LaçoWhile\bin\Debug\netcoreapp2.2\LaçoWhile.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\LaçoWhile\bin\Debug\netcoreapp2.2\LaçoWhile.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\LaçoWhile\bin\Debug\netcoreapp2.2\LaçoWhile.dll
+C:\Users\fic\Desktop\Csharp\LaçoWhile\bin\Debug\netcoreapp2.2\LaçoWhile.pdb
+C:\Users\fic\Desktop\Csharp\LaçoWhile\obj\Debug\netcoreapp2.2\LaçoWhile.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\LaçoWhile\obj\Debug\netcoreapp2.2\LaçoWhile.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\LaçoWhile\obj\Debug\netcoreapp2.2\LaçoWhile.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\LaçoWhile\obj\Debug\netcoreapp2.2\LaçoWhile.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\LaçoWhile\obj\Debug\netcoreapp2.2\LaçoWhile.dll
+C:\Users\fic\Desktop\Csharp\LaçoWhile\obj\Debug\netcoreapp2.2\LaçoWhile.pdb

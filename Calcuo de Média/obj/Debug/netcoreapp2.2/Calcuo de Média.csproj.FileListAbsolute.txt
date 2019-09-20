@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Calcuo de Média\bin\Debug\netcoreapp2.2\Calcuo de Média.deps.json
+C:\Users\fic\Desktop\Csharp\Calcuo de Média\bin\Debug\netcoreapp2.2\Calcuo de Média.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Calcuo de Média\bin\Debug\netcoreapp2.2\Calcuo de Média.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Calcuo de Média\bin\Debug\netcoreapp2.2\Calcuo de Média.dll
+C:\Users\fic\Desktop\Csharp\Calcuo de Média\bin\Debug\netcoreapp2.2\Calcuo de Média.pdb
+C:\Users\fic\Desktop\Csharp\Calcuo de Média\obj\Debug\netcoreapp2.2\Calcuo de Média.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Calcuo de Média\obj\Debug\netcoreapp2.2\Calcuo de Média.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Calcuo de Média\obj\Debug\netcoreapp2.2\Calcuo de Média.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Calcuo de Média\obj\Debug\netcoreapp2.2\Calcuo de Média.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Calcuo de Média\obj\Debug\netcoreapp2.2\Calcuo de Média.dll
+C:\Users\fic\Desktop\Csharp\Calcuo de Média\obj\Debug\netcoreapp2.2\Calcuo de Média.pdb

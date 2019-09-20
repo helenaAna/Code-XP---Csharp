@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\MediaFalta\obj\Debug\netcoreapp2.2\MediaFalta.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\MediaFalta\obj\Debug\netcoreapp2.2\MediaFalta.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\MediaFalta\obj\Debug\netcoreapp2.2\MediaFalta.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\MediaFalta\obj\Debug\netcoreapp2.2\MediaFalta.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\MediaFalta\bin\Debug\netcoreapp2.2\MediaFalta.deps.json
+C:\Users\fic\Desktop\Csharp\MediaFalta\bin\Debug\netcoreapp2.2\MediaFalta.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\MediaFalta\bin\Debug\netcoreapp2.2\MediaFalta.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\MediaFalta\bin\Debug\netcoreapp2.2\MediaFalta.dll
+C:\Users\fic\Desktop\Csharp\MediaFalta\bin\Debug\netcoreapp2.2\MediaFalta.pdb
+C:\Users\fic\Desktop\Csharp\MediaFalta\obj\Debug\netcoreapp2.2\MediaFalta.dll
+C:\Users\fic\Desktop\Csharp\MediaFalta\obj\Debug\netcoreapp2.2\MediaFalta.pdb
